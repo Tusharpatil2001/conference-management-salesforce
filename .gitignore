@@ -43,3 +43,10 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+
+# Hide unwanted LWC components from GitHub
+force-app/main/default/lwc/bookSession/
+force-app/main/default/lwc/container/
+force-app/main/default/lwc/speakerExplorer/
+force-app/main/default/lwc/speakerList/
+force-app/main/default/lwc/speakerSearch/
