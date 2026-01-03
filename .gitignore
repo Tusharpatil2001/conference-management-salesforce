@@ -50,3 +50,7 @@ force-app/main/default/lwc/container/
 force-app/main/default/lwc/speakerExplorer/
 force-app/main/default/lwc/speakerList/
 force-app/main/default/lwc/speakerSearch/
+
+# Hide SpeakerController Apex class
+force-app/main/default/classes/SpeakerController.cls
+force-app/main/default/classes/SpeakerController.cls-meta.xml
